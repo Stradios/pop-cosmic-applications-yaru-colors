@@ -4,3 +4,5 @@ This is a simpel script for removing and instaling the
 "pop-cosmic-launcher.svg"
 "pop-cosmic-workspaces.svg"
 with costum yaru colors versin for pop_os 
+run ./install.sh 
+after reboot sistem or relode gui  Alt+F2 tipe in r and pres Enter
