@@ -1,11 +1,13 @@
 ![][def]
-# pop-cosmic-applications-yaru-colors
+# Pop-cosmic-applications-yaru-colors
 This is a simpel script for removing and instaling the
 
-    pop-cosmic-applications.svg
-    pop-cosmic-launcher.svg
-    pop-cosmic-workspaces.svg 
-    with costum yaru colors versin for pop_os 
+![](https://raw.githubusercontent.com/Stradios/pop-cosmic-applications-yaru-colors/39f8384fd30a54c8fa0fcb1bd1f5860637be9acb/pop-cosmic-applications.svg)
+![](https://raw.githubusercontent.com/Stradios/pop-cosmic-applications-yaru-colors/39f8384fd30a54c8fa0fcb1bd1f5860637be9acb/pop-cosmic-launcher.svg)
+![](https://raw.githubusercontent.com/Stradios/pop-cosmic-applications-yaru-colors/39f8384fd30a54c8fa0fcb1bd1f5860637be9acb/pop-cosmic-workspaces.svg)
+
+
+with costum yaru colors versin for Pop_os!
 ```ruby
 git clone https://github.com/Stradios/pop-cosmic-applications-yaru-colors.git
 chmod +x install.sh 
