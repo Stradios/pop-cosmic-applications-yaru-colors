@@ -1,5 +1,6 @@
 ![][def]
 # Pop-cosmic-applications-yaru-colors
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 This is a simpel script for removing and instaling the
 
 ![](/png/pop-cosmic-applications.png)![](/png/pop-cosmic-launcher.png)![](/png/pop-cosmic-workspaces.png)
